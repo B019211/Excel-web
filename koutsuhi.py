@@ -1,3 +1,5 @@
+#html取得にseleniumを使用するパタン
+
 #Excel用ライブラリの読み込み
 import openpyxl
 
